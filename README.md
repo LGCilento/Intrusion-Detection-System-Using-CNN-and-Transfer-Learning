@@ -1,6 +1,6 @@
 # Intrusion-Detection-System-Using-CNN-and-Transfer-Learning
 
-This repository was forked from **[Intrusion-Detection-System-Using-CNN-and-Transfer-Learning](https://github.com/western-oc2-lab/intrusion-detection-system-using-cnn-and-transfer-learning)** and contains the original files from authors repository plus some changes that i am working on to run the experiments in google colab pro+. 
+This repository was forked from **[Intrusion-Detection-System-Using-CNN-and-Transfer-Learning](https://github.com/western-oc2-lab/intrusion-detection-system-using-cnn-and-transfer-learning)** and contains the original files from authors repository plus some changes that i am working on to run the experiments in google colab pro+. (Lucas Cilento)
 
 
 This is the code for the paper entitled "**[A Transfer Learning and Optimized CNN Based Intrusion Detection System for Internet of Vehicles](https://arxiv.org/pdf/2201.11812.pdf)**" accepted in **IEEE International Conference on Communications (IEEE ICC)**.  
